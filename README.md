@@ -1,8 +1,8 @@
 ### Hi, I’m Adyasha 👋  
 
-🎓 Electronics & Computer Science undergrad  
+🎓 Pre-Final year Electronics & Computer Science undergrad  
 🧠 Curious about AI, systems, and how things work under the hood  
-💻 I build with Python, ML, and cloud tools  
+💻 I work with Python, ML, and cybersecurity tools  
 🌱 Currently learning by breaking things and fixing them  
 ✨ Open to collaborations, ideas, and cool conversations
 
