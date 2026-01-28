@@ -1,4 +1,11 @@
-HI
+### Hi, I’m Adyasha 👋  
+
+🎓 Electronics & Computer Science undergrad  
+🧠 Curious about AI, systems, and how things work under the hood  
+💻 I build with Python, ML, and cloud tools  
+🌱 Currently learning by breaking things and fixing them  
+✨ Open to collaborations, ideas, and cool conversations
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adyasha.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adyasha-mohanty-53003b3a0/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AdyashaExe) 
 
