@@ -6,65 +6,77 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/KIIT-Student-7F5AF0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Dev-1F8EF1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Development-1F8EF1?style=for-the-badge"/>
 </p>
 
 ---
 
 ### 🧠 About
 - BTech Electronics & Computer Science  
-- Focused on building real-world projects  
-- Exploring AI + Full Stack  
+- Interested in AI, Full Stack, real-world products  
+- Working towards strong projects + internships  
 
 ---
 
-### ⚡ Current Focus
+### 🚀 Current Focus
 - Building AI-based applications  
-- Improving system thinking  
-- Consistency over motivation  
+- Strengthening full-stack development  
+- Improving problem solving  
+
+---
+
+### 📄 Resume
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1xvIDHOwhgeMpoLH7AKloNgzlz4FHAogX/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/View%20Resume-7F5AF0?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 💻 Tech Stack
 
-<p align="center">
+#### Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C"/>
+</p>
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript"/>
+#### Development
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" title="Flutter"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" title="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" title="Flask"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="Tailwind CSS"/>
+</p>
 
-<br/>
+#### Data & AI
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit Learn"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" title="TensorFlow"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" title="PyTorch"/>
+</p>
 
-<!-- Dev -->
-<img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Flask-111?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django"/>
-<img src="https://img.shields.io/badge/Tailwind-111?style=for-the-badge&logo=tailwindcss"/>
-
-<br/>
-
-<!-- AI -->
-<img src="https://img.shields.io/badge/Pandas-111?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch"/>
-
-<br/>
-
-<!-- Cloud -->
-<img src="https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/GCP-111?style=for-the-badge&logo=googlecloud"/>
-<img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git"/>
-
+#### Cloud & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" title="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" title="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" title="GCP"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
 </p>
 
 ---
 
 ### 🌐 Connect
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/adyasha-mohanty-53003b3a0/">
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"/>
   </a>
@@ -83,12 +95,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adyashaexe&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adyashaexe&theme=tokyonight" height="150"/>
-</p>
-
----
-
-### 🐍
-
-<p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
