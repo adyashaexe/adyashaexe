@@ -90,11 +90,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=adyashaexe&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adyashaexe&theme=tokyonight" />
 </p>
-
----
-
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
