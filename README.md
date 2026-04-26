@@ -28,7 +28,7 @@
 ### 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1kYXE8ZCDsMu9yEKEay907RC65Kgne7C0/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1po0bLK_CdwIX69LyvOdIOeGQfALWfcV5/view?usp=drive_link">
     <img src="https://img.shields.io/badge/View%20Resume-7F5AF0?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
