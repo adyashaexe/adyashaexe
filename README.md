@@ -84,11 +84,6 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-111?style=for-the-badge&logo=geeksforgeeks&logoColor=green"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/VJpMjGk5vE?theme=dark&font=Fira%20Code&ext=heatmap" width="450"/>
-</p>
-
 ---
 
 ### 🌐 Connect
