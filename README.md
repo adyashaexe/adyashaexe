@@ -74,6 +74,23 @@
 
 ---
 
+### 🧩 Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/u/VJpMjGk5vE/">
+    <img src="https://img.shields.io/badge/LeetCode-111?style=for-the-badge&logo=leetcode&logoColor=orange"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/adyashaexe">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-111?style=for-the-badge&logo=geeksforgeeks&logoColor=green"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/VJpMjGk5vE?theme=dark&font=Fira%20Code&ext=heatmap" width="450"/>
+</p>
+
+---
+
 ### 🌐 Connect
 
 <p>
