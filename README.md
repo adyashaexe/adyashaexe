@@ -1,4 +1,4 @@
-<h1 align="center">Adyasha M</h1>
+<h1 align="center">Adyasha Mohanty</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7F5AF0&center=true&vCenter=true&width=650&lines=Software+Developer;AI+%7C+Full-Stack+Development;Building+Real-World+Projects;Always+Learning+Something+New" />
