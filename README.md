@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Adyasha Mohanty. Software, AI, security, hardware." />
+  <img src="assets/header.svg" width="100%" alt="Adyasha Mohanty. Machine learning, MLOps, software engineering." />
 </p>
 
 <p align="center">
@@ -17,23 +17,42 @@
 
 ## About
 
-I study Electronics and Computer Science, which puts me at the intersection of hardware and software, a vantage point I genuinely enjoy. It lets me ask what is actually happening beneath the abstraction, and then build something with the answer.
+I am an Electronics and Computer Science student who spends most of her time on **machine learning and the engineering around it**. A model that scores well in a notebook is only the beginning; what interests me is the whole lifecycle: clean data, reproducible training, honest evaluation, deployment, and monitoring once it meets the real world.
 
-My interests span **software engineering, machine learning, cybersecurity, and data-driven products**. I am drawn to the full arc of an idea, from first curiosity to a working build. Prototypes that never leave the notebook are not really my thing; I would rather ship something real and refine it.
+My engineering background keeps me curious about what happens beneath the abstraction, and that shows up in how I build. I would rather ship something real and refine it than polish a prototype that never leaves the notebook.
 
-## Current work
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Machine Learning</b><br>
+      <sub>Deep learning, multimodal models, computer vision, and explainability with SHAP and Grad-CAM.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>MLOps</b><br>
+      <sub>Pipelines, containers, CI/CD, and cloud deployment, so models behave outside the notebook too.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Software Engineering</b><br>
+      <sub>APIs, backends, and clean full-stack builds that put a model in front of real users.</sub>
+    </td>
+  </tr>
+</table>
+
+## Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Hardware Trojan Detection</h3>
-      <sub><b>FINAL-YEAR PROJECT &nbsp;·&nbsp; MACHINE LEARNING × FPGA</b></sub>
-      <p>Hardware Trojans are malicious modifications embedded within integrated circuits, and they are notoriously hard to find. This project analyses the power signatures of an FPGA running AES-128 and trains machine learning models to separate clean designs from compromised ones. Think of it as a polygraph for silicon.</p>
+      <h3><a href="https://github.com/adyashaexe/HardwareTrojanML">HardwareTrojanML</a></h3>
+      <sub><b>MAJOR PROJECT &nbsp;·&nbsp; MACHINE LEARNING × FPGA</b></sub>
+      <p>Hardware Trojans are malicious modifications hidden inside chips, and they stay silent until a rare trigger fires. This project catches them through physics rather than behaviour: extra logic draws extra power. We built an AES-128 core in Verilog with three Trojan variants, measured real power on a Basys3 FPGA with an INA219 sensor, and trained Random Forest, SVM and 1D-CNN models to tell clean designs from compromised ones. A polygraph for silicon.</p>
+      <sub>Verilog · Basys3 · INA219 · Arduino · PyTorch · scikit-learn</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/adyashaexe/GastricSentinel">GastricSentinel</a></h3>
-      <sub><b>PERSONAL PROJECT &nbsp;·&nbsp; MULTIMODAL DEEP LEARNING</b></sub>
-      <p>A gastric cancer detection system that fuses histopathology images, genomic profiles, and clinical data into a single prediction. It is messy, multimodal, and easily the most intellectually demanding problem I have taken on so far.</p>
+      <sub><b>MINOR PROJECT &nbsp;·&nbsp; MULTIMODAL DEEP LEARNING</b></sub>
+      <p>A full-stack web application for gastric cancer classification. It fuses histopathology images (GasHisSDB), genomic profiles and clinical records (TCGA-STAD) through a dedicated fusion layer into an 8-class prediction with a risk score. Every result is explained with Grad-CAM heatmaps and SHAP values, and can be exported as a PDF report.</p>
+      <sub>PyTorch · Flask · Supabase · Grad-CAM · SHAP</sub>
     </td>
   </tr>
 </table>
@@ -86,7 +105,7 @@ My interests span **software engineering, machine learning, cybersecurity, and d
     </td>
   </tr>
   <tr>
-    <td valign="middle"><b>Cloud &amp; DevOps</b></td>
+    <td valign="middle"><b>MLOps, Cloud &amp; DevOps</b></td>
     <td valign="middle">
       <img src="https://img.shields.io/badge/-AWS-312E81?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/-Google%20Cloud-312E81?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
@@ -139,11 +158,12 @@ SQL · REST APIs · Microservices · OOP · ETL · CI/CD · Computer Vision · F
 - **Understand the mechanism.** If I cannot explain why something works, I do not consider it finished.
 - **Ship, then refine.** A working first version teaches more than a flawless idea that never leaves the drawing board.
 - **Insist on explainability.** A model that cannot justify its output (hence SHAP and Grad-CAM) has not earned my trust.
+- **Treat models like software.** Versioned, tested, reproducible, and monitored, not a one-off experiment.
 - **Communicate well.** Strong code and a clear explanation of it are two halves of the same skill.
 
 ## Get in touch
 
-I am open to internships, collaborations, and a good conversation about AI, security, or hardware. If you are working on something interesting, I would love to hear about it.
+I am open to internships, collaborations, and a good conversation about machine learning, MLOps, or building AI products. If you are working on something interesting, I would love to hear about it.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adyasha-mohanty-53003b3a0/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
