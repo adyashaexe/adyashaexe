@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Adyasha Mohanty. Software, AI, security, hardware.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#1B1A4B"/>
+      <stop offset="1" stop-color="#0B1020"/>
+    </linearGradient>
+    <linearGradient id="trace" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#38BDF8"/>
+      <stop offset="0.8" stop-color="#A5B4FC"/>
+      <stop offset="1" stop-color="#A5B4FC" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A5B4FC" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#A5B4FC" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#A5B4FC" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#A5B4FC" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="280" fill="url(#bg)"/>
+  <rect width="1000" height="280" fill="url(#grid)"/>
+
+  <!-- scanning sweep -->
+  <rect x="-160" y="0" width="160" height="280" fill="url(#sweep)">
+    <animate attributeName="x" values="-160;1000" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- title -->
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
+    <text x="500" y="102" font-size="54" font-weight="700" fill="#F1F5F9" letter-spacing="1.5">
+      Adyasha Mohanty
+      <animate attributeName="opacity" values="0;1" dur="1.4s" fill="freeze"/>
+    </text>
+    <text x="500" y="140" font-size="15" fill="#A5B4FC" letter-spacing="5">
+      SOFTWARE  ·  AI  ·  SECURITY  ·  HARDWARE
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.4;1" dur="2.2s" fill="freeze"/>
+    </text>
+  </g>
+
+  <!-- power trace, drawn then erased -->
+  <path id="wave" pathLength="1" fill="none" stroke="url(#trace)" stroke-width="2.5" stroke-linecap="round" filter="url(#glow)" stroke-dasharray="1" stroke-dashoffset="1"
+        d="M0,215 Q20,191 40,215 T80,215 T120,215 T160,215 T200,215 T240,215 T280,215 T320,215 T360,215 T400,215 T440,215 T480,215 T520,215 T560,215 T600,215 T640,215 T680,215 T720,215 T760,215 T800,215 T840,215 T880,215 T920,215 T960,215 T1000,215">
+    <animate attributeName="stroke-dashoffset" values="1;0;0;-1" keyTimes="0;0.45;0.55;1" dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- signal head -->
+  <circle r="4.5" fill="#E0E7FF" filter="url(#glow)">
+    <animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.45;1" calcMode="linear">
+      <mpath xlink:href="#wave"/>
+    </animateMotion>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.44;0.46;1" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- anomaly spike: the "trojan" -->
+  <g>
+    <path d="M628,215 L640,215 L651,150 L663,252 L675,215 L688,215" fill="none" stroke="#FBBF24" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" filter="url(#glow)" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3;0.36;0.5;0.56;1" dur="8s" repeatCount="indefinite"/>
+    </path>
+    <text x="651" y="138" font-family="'SFMono-Regular', Consolas, monospace" font-size="11" fill="#FBBF24" text-anchor="middle" letter-spacing="1" opacity="0">
+      ANOMALY DETECTED
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.34;0.4;0.5;0.56;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- footer caption -->
+  <text x="500" y="266" text-anchor="middle" font-family="'SFMono-Regular', Consolas, monospace" font-size="11" fill="#64748B" letter-spacing="2">
+    FPGA POWER SIDE-CHANNEL  ·  AES-128  ·  CLEAN vs COMPROMISED
+  </text>
+</svg>
