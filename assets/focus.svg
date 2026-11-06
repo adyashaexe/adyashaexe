@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 232" width="1000" height="232" role="img" aria-label="Focus areas: AI and machine learning, MLOps, software engineering">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A1850"/>
+      <stop offset="1" stop-color="#0F1330"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#A5B4FC" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0.12"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- CARD 1 : AI & ML -->
+  <g transform="translate(20,10)">
+    <rect width="300" height="212" rx="18" fill="url(#card)" stroke="url(#edge)" stroke-width="1.5"/>
+    <g transform="translate(24,24)" stroke-linecap="round">
+      <g stroke="#A5B4FC" stroke-opacity="0.35" stroke-width="1">
+        <path d="M6,16 L28,10 M6,16 L28,28 M6,16 L28,46 M6,40 L28,10 M6,40 L28,28 M6,40 L28,46"/>
+        <path d="M28,10 L50,28 M28,28 L50,28 M28,46 L50,28"/>
+      </g>
+      <g fill="#A5B4FC" filter="url(#glow)">
+        <circle cx="6" cy="16" r="3.5"><animate attributeName="r" values="3.5;5;3.5" dur="3s" begin="0s" repeatCount="indefinite"/></circle>
+        <circle cx="6" cy="40" r="3.5"><animate attributeName="r" values="3.5;5;3.5" dur="3s" begin="0.4s" repeatCount="indefinite"/></circle>
+        <circle cx="28" cy="10" r="3.5"><animate attributeName="r" values="3.5;5;3.5" dur="3s" begin="0.9s" repeatCount="indefinite"/></circle>
+        <circle cx="28" cy="28" r="3.5"><animate attributeName="r" values="3.5;5;3.5" dur="3s" begin="1.2s" repeatCount="indefinite"/></circle>
+        <circle cx="28" cy="46" r="3.5"><animate attributeName="r" values="3.5;5;3.5" dur="3s" begin="1.5s" repeatCount="indefinite"/></circle>
+      </g>
+      <circle cx="50" cy="28" r="4.5" fill="#38BDF8" filter="url(#glow)"><animate attributeName="r" values="4.5;6.5;4.5" dur="3s" begin="2s" repeatCount="indefinite"/></circle>
+    </g>
+    <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+      <text x="24" y="118" font-size="19" font-weight="700" fill="#F1F5F9">AI &amp; Machine Learning</text>
+      <g font-size="12.5" fill="#94A3B8">
+        <text x="24" y="144">Deep learning, multimodal models and</text>
+        <text x="24" y="163">computer vision, with explainability</text>
+        <text x="24" y="182">baked in. “The model said so” won’t do.</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- CARD 2 : MLOps -->
+  <g transform="translate(350,10)">
+    <rect width="300" height="212" rx="18" fill="url(#card)" stroke="url(#edge)" stroke-width="1.5"/>
+    <g transform="translate(24,24)" fill="none" stroke="#A5B4FC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <g>
+        <path d="M28,8 A20,20 0 0 1 48,28"/>
+        <path d="M43,23 L48,29 L54,23" stroke-width="2.5"/>
+        <path d="M28,48 A20,20 0 0 1 8,28"/>
+        <path d="M2,33 L8,27 L13,33" stroke-width="2.5"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 28 28" to="360 28 28" dur="14s" repeatCount="indefinite"/>
+      </g>
+      <circle cx="28" cy="28" r="4.5" fill="#38BDF8" stroke="none" filter="url(#glow)"><animate attributeName="opacity" values="1;0.4;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    </g>
+    <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+      <text x="24" y="118" font-size="19" font-weight="700" fill="#F1F5F9">MLOps</text>
+      <g font-size="12.5" fill="#94A3B8">
+        <text x="24" y="144">Pipelines, containers, CI/CD and cloud</text>
+        <text x="24" y="163">deployment. Models should survive</text>
+        <text x="24" y="182">their first contact with production.</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- CARD 3 : Software engineering -->
+  <g transform="translate(680,10)">
+    <rect width="300" height="212" rx="18" fill="url(#card)" stroke="url(#edge)" stroke-width="1.5"/>
+    <g transform="translate(24,24)" fill="none" stroke="#A5B4FC" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M19,16 L7,28 L19,40"/>
+      <path d="M37,16 L49,28 L37,40"/>
+      <path d="M31,11 L25,45" stroke="#38BDF8" filter="url(#glow)">
+        <animate attributeName="stroke-opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+      <text x="24" y="118" font-size="19" font-weight="700" fill="#F1F5F9">Software Engineering</text>
+      <g font-size="12.5" fill="#94A3B8">
+        <text x="24" y="144">APIs, backends and clean full-stack</text>
+        <text x="24" y="163">builds that put a model in front of</text>
+        <text x="24" y="182">actual humans.</text>
+      </g>
+    </g>
+  </g>
+</svg>

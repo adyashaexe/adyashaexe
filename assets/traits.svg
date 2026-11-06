@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="Fluent in Python and pipelines. Allergic to data leakage and suspiciously perfect metrics.">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A1850"/>
+      <stop offset="1" stop-color="#0F1330"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#A5B4FC" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(20,10)">
+    <rect width="470" height="130" rx="18" fill="url(#card)" stroke="url(#edge)" stroke-width="1.5"/>
+    <circle cx="36" cy="34" r="5" fill="#38BDF8"><animate attributeName="opacity" values="1;0.35;1" dur="2.6s" repeatCount="indefinite"/></circle>
+    <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+      <text x="54" y="40" font-size="12" font-weight="700" fill="#38BDF8" letter-spacing="3">FLUENT IN</text>
+      <g font-size="15" fill="#E2E8F0">
+        <text x="28" y="76">Python  ·  pipelines  ·  reading error messages</text>
+        <text x="28" y="100">calmly  ·  turning “it’s complicated” into a diagram</text>
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(510,10)">
+    <rect width="470" height="130" rx="18" fill="url(#card)" stroke="url(#edge)" stroke-width="1.5"/>
+    <circle cx="36" cy="34" r="5" fill="#FBBF24"><animate attributeName="opacity" values="1;0.35;1" dur="2.6s" begin="1.3s" repeatCount="indefinite"/></circle>
+    <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+      <text x="54" y="40" font-size="12" font-weight="700" fill="#FBBF24" letter-spacing="3">ALLERGIC TO</text>
+      <g font-size="15" fill="#E2E8F0">
+        <text x="28" y="76">Data leakage  ·  “it works on my machine”</text>
+        <text x="28" y="100">undocumented code  ·  suspiciously perfect metrics</text>
+      </g>
+    </g>
+  </g>
+</svg>
