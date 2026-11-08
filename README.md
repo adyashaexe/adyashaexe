@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adyasha-mohanty-53003b3a0/"><img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://drive.google.com/file/d/1po0bLK_CdwIX69LyvOdIOeGQfALWfcV5/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-312E81?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/1C2YBKD4JHdjP7kNEtQQuFO1LRik2pMru/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-312E81?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="https://leetcode.com/u/VJpMjGk5vE/"><img src="https://img.shields.io/badge/LeetCode-312E81?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://www.kaggle.com/adyashaexe"><img src="https://img.shields.io/badge/Kaggle-312E81?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://www.geeksforgeeks.org/profile/adyashaexe"><img src="https://img.shields.io/badge/GeeksforGeeks-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
