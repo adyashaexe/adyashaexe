@@ -152,10 +152,6 @@ SQL · REST APIs · Microservices · OOP · ETL · CI/CD · Computer Vision · F
   <img src="https://streak-stats.demolab.com?user=adyashaexe&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak statistics" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adyashaexe&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-</p>
-
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## Strong opinions, loosely held
